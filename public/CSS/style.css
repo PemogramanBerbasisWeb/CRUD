@@ -1,0 +1,10 @@
+.sampul {
+    width: 50px;
+}
+
+.table > tbody > tr > * {
+    vertical-align: middle;
+}
+.card-text{
+    text-align: justify;
+}
